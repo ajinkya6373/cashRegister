@@ -30,7 +30,6 @@ checkoutBtn.addEventListener('click', function(){
     }
 })
 
-
 const calculateChange =(amountToBeReturned)=> {
     for (let i = 0; i < notes.length; i++) {
   
